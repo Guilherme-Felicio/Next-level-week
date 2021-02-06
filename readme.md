@@ -6,7 +6,7 @@
 <h2>
    ℹ️Sobre
 </h2>
-Ecoleta é uma aplicação web desenvolvida e ministrada em aulas pela rocketseat. Na aplicação é possivel fazer o cadastro de pontos de coleta de reciclagem em qualquer região do Brasil.
+Ecoleta é uma aplicação web desenvolvida e ministrada pela rocketseat. Na aplicação é possivel fazer o cadastro de pontos de coleta de reciclagem em qualquer região do Brasil.
 <h2>🚧Status do sistema</h2>
 🔒 Finalizado
 
