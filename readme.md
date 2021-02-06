@@ -1,7 +1,7 @@
 <h1 align="center">
     Ecoleta</h1>
     <br>
-    <img alt="Foto do sistema" src="./screenshots/sistema.png"/>
+    <img alt="Foto do sistema" src="./github/gif/apresentacao.gif"/>
 
 <h2>
    ℹ️Sobre
