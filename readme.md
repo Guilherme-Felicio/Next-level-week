@@ -34,9 +34,9 @@ Ecoleta é uma aplicação web desenvolvida e ministrada em aulas pela rocketsea
     <li>Clone esse repositório digitando:
         git clone https://github.com/Guilherme-Felicio/Next-level-week.git</li>
     
-    <li>Execute o comando: <br>npm install</li>
-    <li>Execute o comando: <br>npm start</li>
-    <li>Abra seu navegador e digite: <br>http://127.0.0.1:3000/</li>
+    <li>Execute o comando: npm install</li>
+    <li>Execute o comando: npm start</li>
+    <li>Abra seu navegador e digite: http://127.0.0.1:3000/</li>
 
 </ol>
 
