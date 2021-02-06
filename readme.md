@@ -38,6 +38,8 @@ Ecoleta é uma aplicação web desenvolvida e ministrada em aulas pela rocketsea
 
 </ol>
 
+<br> E pronto
+
 
     
 <hr height="4px">
