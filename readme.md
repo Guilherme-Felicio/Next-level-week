@@ -1,5 +1,5 @@
 <h1 align="center">
-    Ecoleta</h1>
+    ♻️Ecoleta</h1>
     <br>
     <img alt="Foto do sistema" src="./github/gif/apresentacao.gif"/>
 
